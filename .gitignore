@@ -22,3 +22,6 @@ data/*.csv
 # Operating system
 .DS_Store
 Thumbs.db
+# Ignore generated and processed datasets
+/data/processed/*.csv
+/data/raw/*.csv
